@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+
+}
+.first{
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    padding: 20rem 0;
+    background-position: center;
+    background-size:cover ;
+}
+
+.first h1{
+    color: 212529;
+    font-size: 88px;
+}
+
+.first h3{
+    color: 212529;
+    font-size: 28px;
+    font-style: italic;
+    margin-bottom: 40px;
+}
+
+
+
+.first a{
+    background-color: #1D809F;
+    padding: 20px 40px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.second{
+    text-align: center;
+    margin-top: 9rem;
+    margin-bottom: 9rem;
+    padding-right: 5rem;
+    padding-left: 5rem;
+}
+
+
+.second h2{
+    color: #212529;
+    font-size: 29.165px;
+    margin: 0px 0px 8px;
+    line-height: 1.2;
+
+}
+
+.second-p{
+    color: #212529;
+    font-size: 20px;
+    margin: 0px 0px 48px;
+    font-weight: lighter;
+
+}
+
+.second-first-a{
+    text-decoration: underline;
+    color: #1D809F;
+    font-weight: 300;
+}
+
+.second-second-a{
+    background-color: #212529;
+    color: #fff;
+    padding: 20px 40px;
+    font: 16px;
+    border-radius: 5px;
+}
+
+
+.third{
+    margin-top: 7rem;
+    text-align: center;
+    padding: 20rem 0;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    background-position: center;
+    background-size:cover ;
+}
+
+.third span{
+    font-style: italic;
+    
+}
+
+.third h2{
+    color: #212529;
+    font-size: 56px;
+    font-weight: bold;
+    margin: 0 auto;
+    max-width: 30rem;
+    margin-bottom: 10rem;
+
+}
+
+.third a{
+    color: #fff;
+    font:16px;
+    background-color: #1D809F;
+    padding: 20px 40px;
+    border-radius: 5px;
+
+}
+
+
+.fourth{
+    text-align: center;
+    background-color: #1D809F;
+    padding: 120px 0px;
+}
+
+.fourth h2{
+    color: #fff;
+    font-size: 29.165px;
+    margin: 0px 0px 50px;
+}
+
+.fourth a{
+    border-radius: 5px;
+    font: 16px;
+    padding: 20px 40px;
+
+}
+.fourth-first-a{
+    color: #000;
+    background-color: #F8F9FA;
+    margin-right: 24px;
+}
+
+.fourth-second-a{
+    color: #fff;
+background-color: #212529;
+}
+
+.fifth{
+    text-align: center;
+    /* padding: 0rem 20rem; */
+}
+
+.fifth iframe{
+    height: 500px;
+    width: 100%;
+}
